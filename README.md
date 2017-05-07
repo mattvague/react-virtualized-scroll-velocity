@@ -7,17 +7,7 @@ you to tell how fast the user is scrolling and take action based on the velocity
 
 ## Installation
 
-Install `react-virtualized-scroll-velocity` using npm or yarn.
-
-```shell
-npm install react-virtualized --save
-```
-
-or
-
-```shell
-yarn add react-virtualized-scroll-velocity
-```
+WIP
 
 ## Usage
 
