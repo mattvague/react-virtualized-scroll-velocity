@@ -1,0 +1,9 @@
+{
+  "name": "react-virtualized-scroll-velocity",
+  "version": "0.0.1",
+  "description": "Scroll velocity component for react-virtualized",
+  "main": "index.js",
+  "repository": "git@github.com:mattvague/react-virtualized-scroll-velocity.git",
+  "author": "Matt Vague <mattvague@gmail.com>",
+  "license": "MIT"
+}
